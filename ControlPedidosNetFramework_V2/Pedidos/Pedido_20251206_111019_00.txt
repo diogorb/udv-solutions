@@ -1,0 +1,10 @@
+Horário do Pedido: 06/12/2025 11:10:19
+Nome do Cliente: diogo
+Itens do Pedido:
+Quantidade de Itens: 1
+- Item 1: Hambúrguer Cheddar[Burger], 
+
+Comentários: 
+Tipo de Pedido: Normal
+Operador: diogo
+Número do Pedido: 00

@@ -37,7 +37,7 @@ def split_pdf_by_pages_reversed_numbered(input_pdf_path, output_directory="outpu
             # O nome do arquivo agora usa o contador de geração
             # Também incluímos o número da página original entre parênteses para referência
             base_file_name = os.path.splitext(os.path.basename(input_pdf_path))[0]
-            output_pdf_name = f"{generated_file_count}.pdf" # <--- MUDANÇA AQUI
+            output_pdf_name = f"{generated_file_count} - PAGO.pdf" # <--- MUDANÇA AQUI
             output_pdf_path = os.path.join(output_directory, output_pdf_name)
 
             with open(output_pdf_path, "wb") as output_file:

@@ -1,0 +1,7 @@
+{
+  "ItensPedido": [ "Hambúrguer Coalho", "Hambúrguer Cheddar", "Salada Fit Cheddar", "Salada Fit Coalho", "Batata Frita", "Bebida Normal", "MilkShake" ],
+  "TipoItens": [ "Burger", "Burger", "Burger", "Burger", "zBatata", "zBebida", "zBebida" ],
+  "NomeImpressora": "MP-4200 TH",
+  "ArquivoNumPedido": "numeropedido.txt",
+  "ImprimirFichas": [ "zBatata", "zBebida" ]
+}
